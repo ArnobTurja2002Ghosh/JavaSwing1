@@ -8,3 +8,5 @@ As soon as you run this project, you can see four different options of colors an
 "rotate" buttons are to change the orientation of a shape.
 
 After selection of both a color and a shape, you will be taken to the grid to place your tile. 
+
+![partially filled grid](images/Screenshot 2024-10-28 145052.jpg)
