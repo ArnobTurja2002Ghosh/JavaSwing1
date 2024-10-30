@@ -9,4 +9,4 @@ As soon as you run this project, you can see four different options of colors an
 
 After selection of both a color and a shape, you will be taken to the grid to place your tile. 
 
-![partially filled grid](https://github.com/ArnobTurja2002Ghosh/JavaSwing1/blob/main/images/Screenshot%202024-10-28%20145052.jpg | width=100)
+![partially filled grid](images/Screenshot%202024-10-28%20145052.jpg | width=100)
